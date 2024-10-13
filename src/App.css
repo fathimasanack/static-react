@@ -1,0 +1,10 @@
+.image :hover{
+    background-color: rgb(233, 197, 197);
+}
+
+.cardShadow:hover{
+    box-shadow: 0 0 2rem rgb(84, 83, 83);
+}
+.img1:hover{
+    background-color: rgb(233, 197, 197) ;
+}
